@@ -1,2 +1,2 @@
 # PythonProjects
-Python Personal Projects
+Personal Python Projects. Learning Python.
